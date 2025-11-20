@@ -1,5 +1,4 @@
 # RNA-Foundation-Model-Survey
-RNA Foundation Model
 
 
 <!-- [![Contributors][contributors-shield]][contributors-url]
