@@ -28,10 +28,10 @@
 | RNABERT | 2022.02 | 515K | Transformer | | [[NAR Genomics Bioinformtics](https://academic.oup.com/nargab/article/4/1/lqac012/6534363)] | [[Code](https://huggingface.co/multimolecule/rnabert)]
 | RNA-FM | 2022 | 23M | Transformer | | [[arxiv](https://arxiv.org/abs/2204.00300)] | [[Code](https://huggingface.co/multimolecule/rnafm?text=UAGC%3Cmask%3EUAUCAGACUGAUGUUG)]
 | SpliceBERT | 2024 | 19.4M | Transformer | | [[Brief Bioinform](https://academic.oup.com/bib/article/25/3/bbae163/7644137?login=false)] | [[Code](https://huggingface.co/multimolecule/splicebert?text=UAGC%3Cmask%3EUAUCAGACUGAUGUUG)]
-| RNA-MSM | 2024 | 数据11 | Transformer | | [[Nucleic Acids Research](https://academic.oup.com/nar/article/52/1/e3/7369930?login=false)] | [[Code](https://huggingface.co/multimolecule/rnamsm?text=GGUC%3Cmask%3ECUCUGGUUAGACCAGAUCUGAGCCU)]
-| Omnigenome | 2024 | 186M | Transformer | | [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/35500)]
-| GenerRNA | 2024 | 数据11 | Transformer (decoder-only) | | [[PLOS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814)] | [[Code](https://huggingface.co/pfnet/GenerRNA)]
-| RfamGen | 2024 | 数据11 | VAE + covariance model | | [[Nature Methods](https://www.nature.com/articles/s41592-023-02148-8)]
+| RNA-MSM | 2024 | 95.9M | Transformer | | [[Nucleic Acids Research](https://academic.oup.com/nar/article/52/1/e3/7369930?login=false)] | [[Code](https://huggingface.co/multimolecule/rnamsm?text=GGUC%3Cmask%3ECUCUGGUUAGACCAGAUCUGAGCCU)]
+| Omnigenome | 2024 | 186M | Transformer | | [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/35500)] | [[Code](https://huggingface.co/yangheng/OmniGenome-186M)]
+| GenerRNA | 2024 |   | Transformer (decoder-only) | | [[PLOS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814)] | [[Code](https://huggingface.co/pfnet/GenerRNA)]
+| RfamGen | 2024 |   | VAE + covariance model | | [[Nature Methods](https://www.nature.com/articles/s41592-023-02148-8)]
 | Bert2Ome | 2023 | 110M | CNN + Transformer | | [[IEEE/ACM Trans on Comput Biol Bioinform](https://ieeexplore.ieee.org/document/10018863)]
 
 
