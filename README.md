@@ -2,10 +2,10 @@
 RNA Foundation Model
 
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url] -->
 ![](https://img.shields.io/badge/Status-building-brightgreen) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
