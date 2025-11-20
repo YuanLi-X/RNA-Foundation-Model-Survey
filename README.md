@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <br>
-  <img src="pictures/Image(1).png" alt="Foundation Models in Transcriptomics" width="500">
+  <img src="pictures/Picture2.png" alt="Foundation Models in Transcriptomics" width="100%">
 </h1>
 
 <p align="center">
