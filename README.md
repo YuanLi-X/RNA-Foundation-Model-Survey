@@ -25,14 +25,14 @@
 
 | Model | Release Time | Model_size | Architecture | Description | Paper Link | Model Link
 | --- | --- | --- | --- | --- | --- | --- |
-| RNABERT | 2022.02 | 数据3 | Transformer |
-| RNA-FM | 2022 | 23M | Transformer |
-| SpliceBERT | 2024 | 19.4M | Transformer |
-| RNA-MSM | 2024 | 数据11 | Transformer |
-| Omnigenome | 2024 | 186M | Transformer |
-| GenerRNA | 2024 | 数据11 | Transformer (decoder-only) |
-| RfamGen | 2024 | 数据11 | VAE + covariance model |
-| Bert2Ome | 2023 | 110M | CNN + Transformer |
+| RNABERT | 2022.02 | 515K | Transformer | | [[NAR Genomics Bioinformtics](https://academic.oup.com/nargab/article/4/1/lqac012/6534363)] | [[Code](https://huggingface.co/multimolecule/rnabert)]
+| RNA-FM | 2022 | 23M | Transformer | | [[arxiv](https://arxiv.org/abs/2204.00300)] | [[Code](https://huggingface.co/multimolecule/rnafm?text=UAGC%3Cmask%3EUAUCAGACUGAUGUUG)]
+| SpliceBERT | 2024 | 19.4M | Transformer | | [[Brief Bioinform](https://academic.oup.com/bib/article/25/3/bbae163/7644137?login=false)] | [[Code](https://huggingface.co/multimolecule/splicebert?text=UAGC%3Cmask%3EUAUCAGACUGAUGUUG)]
+| RNA-MSM | 2024 | 数据11 | Transformer | | [[Nucleic Acids Research](https://academic.oup.com/nar/article/52/1/e3/7369930?login=false)] | [[Code](https://huggingface.co/multimolecule/rnamsm?text=GGUC%3Cmask%3ECUCUGGUUAGACCAGAUCUGAGCCU)]
+| Omnigenome | 2024 | 186M | Transformer | | [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/35500)]
+| GenerRNA | 2024 | 数据11 | Transformer (decoder-only) | | [[PLOS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814)] | [[Code](https://huggingface.co/pfnet/GenerRNA)]
+| RfamGen | 2024 | 数据11 | VAE + covariance model | | [[Nature Methods](https://www.nature.com/articles/s41592-023-02148-8)]
+| Bert2Ome | 2023 | 110M | CNN + Transformer | | [[IEEE/ACM Trans on Comput Biol Bioinform](https://ieeexplore.ieee.org/document/10018863)]
 
 
 **Latest papers**: 
@@ -42,16 +42,16 @@
 - Language FMs
   - Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification [[arxiv](https://arxiv.org/abs/2502.10694)]
   - RNABERT: Informative RNA base embedding for RNA structural alignment and clustering by deep representation learning. [[NAR Genomics Bioinformtics](https://academic.oup.com/nargab/article/4/1/lqac012/6534363)]
-  - RNA-FM
-  - SpliceBERT
-  - RNA-MSM:
-  - Omnigenome:
-  - GenerRNA:
+  - RNA-FM:  Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [[arxiv](https://arxiv.org/abs/2204.00300)]
+  - SpliceBERT: Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction. [[Brief Bioinform](https://academic.oup.com/bib/article/25/3/bbae163/7644137?login=false)]
+  - RNA-MSM: Multiple sequence alignment-based RNA language model and its application to structural inference. [[Nucleic Acids Research](https://academic.oup.com/nar/article/52/1/e3/7369930?login=false)]
+  - Omnigenome: OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models. [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/35500)]
+  - GenerRNA: GenerRNA: a generative pre-trained language model for de novo RNA design. [[PLOS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310814)]
 
 - Vision FMs
-  - RfamGen:
+  - RfamGen: Deep generative design of rna familysequences. [[Nature Methods](https://www.nature.com/articles/s41592-023-02148-8)]
 - Multimodal FMs
-  - Bert2Ome: 
+  - Bert2Ome: BERT2OME: Prediction of 2′-O-Methylation Modifications From RNA Sequence by Transformer Architecture Based on BERT [[IEEE/ACM Trans on Comput Biol Bioinform](https://ieeexplore.ieee.org/document/10018863)]
 
 
 
