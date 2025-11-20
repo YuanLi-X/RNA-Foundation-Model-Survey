@@ -10,14 +10,14 @@
 
 <h1 align="center">
   <br>
-  <img src="png/logo.jpg" alt="Foundation Models in Transcriptomics" width="500">
+  <img src="pictures/Image(1).png" alt="Foundation Models in Transcriptomics" width="500">
 </h1>
 
 <p align="center">
   <strong><a href="#1papers-论文">Papers</a></strong> •
-  <a href="#2.Survey (研究综述)">Research Survey</a> •
-  <a href="#3.Datasets and Benchmarks (数据集与评测结果)">Dataset & benchmarks</a> •
-  <a href="#4.Challenges (竞赛信息)">Challenges</a>
+  <a href="#2survey-研究综述">Research Survey</a> •
+  <a href="#3datasets-and-benchmarks-数据集与评测结果">Dataset & benchmarks</a> •
+  <a href="#4challenges-竞赛信息">Challenges</a>
 </p>
 
 
