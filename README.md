@@ -25,7 +25,7 @@
 
 | Model | Release Time | Model_size | Architecture | Description | Paper Link | Model Link
 | --- | --- | --- | --- | --- | --- | --- |
-| RNABERT | 2022 | 数据3 | Transformer |
+| RNABERT | 2022.02 | 数据3 | Transformer |
 | RNA-FM | 2022 | 23M | Transformer |
 | SpliceBERT | 2024 | 19.4M | Transformer |
 | RNA-MSM | 2024 | 数据11 | Transformer |
@@ -37,35 +37,27 @@
 
 **Latest papers**: 
 
-- By topic: [doc/awesome_papers.md](/doc/awesome_paper.md)
-- By date: [doc/awesome_paper_date.md](/doc/awesome_paper_date.md)
+*Updated at 2025-11-18:*
 
-*Updated at 2024-02-18:*
+- Language FMs
+  - Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification [[arxiv](https://arxiv.org/abs/2502.10694)]
+  - RNABERT: Informative RNA base embedding for RNA structural alignment and clustering by deep representation learning. [[NAR Genomics Bioinformtics](https://academic.oup.com/nargab/article/4/1/lqac012/6534363)]
+  - RNA-FM
+  - SpliceBERT
+  - RNA-MSM:
+  - Omnigenome:
+  - GenerRNA:
 
-- Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification [[arxiv](https://arxiv.org/abs/2502.10694)]
-  - Unsupervised domain adaptaiton for image classification
+- Vision FMs
+  - RfamGen:
+- Multimodal FMs
+  - Bert2Ome: 
 
-- Semantics-aware Test-time Adaptation for 3D Human Pose Estimation [[arxiv](https://arxiv.org/abs/2502.10724)]
-  - Test-time adaptation for3D human pose estimation
-
-- Transfer Learning of CATE with Kernel Ridge Regression [[arxiv](https://arxiv.org/abs/2502.11331)]
-  - Transfer learning with kernel ridge regression
-
-- Why Domain Generalization Fail? A View of Necessity and Sufficiency [[arxiv](https://arxiv.org/abs/2502.10716)] 
-  - Analyze why domain generalization fail from the view of necessity and sufficiency
-
-
-*Updated at 2024-02-11:*
-
-- Beyond Batch Learning: Global Awareness Enhanced Domain Adaptation [[arxiv](https://arxiv.org/abs/2502.06272)]
-  - Global awareness for enhanced domain adaptation
-
-- - -
 
 
 ## 2.Survey (研究综述)
 
-
+- - -
 
 
 ## 3.Datasets and Benchmarks (数据集与评测结果)
