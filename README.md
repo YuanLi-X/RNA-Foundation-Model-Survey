@@ -91,7 +91,7 @@ RNA Foundation Model
 
 ## Contributing (欢迎参与贡献)
 
-If you are interested in contributing, please refer to [HERE](https://github.com/jindongwang/transferlearning/blob/master/CONTRIBUTING.md) for instructions in contribution.
+If you are interested in contributing, please refer to [HERE](https://github.com/YuanLi-X/RNA-Foundation-Model-Survey/master/CONTRIBUTING.md) for instructions in contribution.
 
 - - -
 
