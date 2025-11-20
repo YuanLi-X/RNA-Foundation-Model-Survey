@@ -14,21 +14,9 @@ RNA Foundation Model
 
 <p align="center">
   <strong><a href="#1papers-论文">Papers</a></strong> •
-  <strong><a href="#1introduction-and-tutorials-简介与教程">Tutorials</a></strong> •
-  <a href="#2transfer-learning-areas-and-papers-研究领域与相关论文">Research areas</a> •
-  <a href="#3theory-and-survey-理论与综述">Theory</a> •
-  <a href="#3theory-and-survey-理论与综述">Survey</a> •
-  <strong><a href="https://github.com/jindongwang/transferlearning/tree/master/code">Code</a></strong> •
-  <strong><a href="#7datasets-and-benchmarks-数据集与评测结果">Dataset & benchmark</a></strong>
-</p>
-<p align="center">
-  <a href="#6transfer-learning-thesis-硕博士论文">Thesis</a> •
-  <a href="#5transfer-learning-scholars-著名学者">Scholars</a> •
-  <a href="#8transfer-learning-challenges-迁移学习比赛">Contests</a> •
-  <a href="#journals-and-conferences">Journal/conference</a> •
-  <a href="#applications-迁移学习应用">Applications</a> •
-  <a href="#other-resources-其他资源">Others</a> •
-  <a href="#contributing-欢迎参与贡献">Contributing</a>
+  <a href="#2.Survey (研究综述)">Research Survey</a> •
+  <a href="#3.Datasets and Benchmarks (数据集与评测结果)">Dataset & benchmarks</a> •
+  <a href="#4.Challenges (竞赛信息)">Challenges</a>
 </p>
 
 
@@ -91,7 +79,7 @@ RNA Foundation Model
 
 ## Contributing (欢迎参与贡献)
 
-If you are interested in contributing, please refer to [HERE](https://github.com/YuanLi-X/RNA-Foundation-Model-Survey/master/CONTRIBUTING.md) for instructions in contribution.
+If you are interested in contributing, please refer to [HERE](https://github.com/YuanLi-X/RNA-Foundation-Model-Survey/blob/main/CONTRIBUTING.md) for instructions in contribution.
 
 - - -
 
